@@ -3,7 +3,7 @@ const resumeData = {
   name: "Akhil Siraswal",
   address: "Moh No-1 Teacher's Colony Bilsi",
   mobileNumber: "(+91) 8532057324",
-  role: "Backend Developer",
+  role: "Full Stack Web Developer",
   roleDescription: " ",
   aboutMe: "Web Developer , CyberSecurity Enthusiast",
   college: "Kiet Group Of Institutions",

@@ -14,11 +14,11 @@ function portfolio() {
             <div className="columns portfolio-item">
               <div className="item-wrap">
                 <a href="#modal-01" title>
-                  <img alt="" src="images/portfolio/coffee.jpg" />
+                  <img alt="" src="images/portfolio/loginAuth.png" />
                   <div className="overlay">
                     <div className="portfolio-item-meta">
-                      <h5>Coffee</h5>
-                      <p>Illustrration</p>
+                      <h5>Authentication</h5>
+                      <p>Node js </p>
                     </div>
                   </div>
                   <div className="link-icon">
@@ -156,23 +156,26 @@ function portfolio() {
         <div id="modal-01" className="popup-modal mfp-hide">
           <img
             className="scale-with-grid"
-            src="images/portfolio/modals/m-coffee.jpg"
+            src="images/portfolio/loginAuth.png"
             alt=""
           />
           <div className="description-box">
-            <h4>Coffee Cup</h4>
+            <h4>Authentication</h4>
             <p>
-              Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-              lorem quis bibendum auctor, nisi elit consequat ipsum, nec
-              sagittis sem nibh id elit.
+              In this project User can sign-in and sign-out and all data of user
+              is connected to backend database, MongoDB. the provided data gets
+              authenticated in backend and if the user is authenticated the user
+              can login otherwise it will show error.
             </p>
             <span className="categories">
               <i className="fa fa-tag" />
-              Branding, Webdesign
+              Nodejs , Authentication
             </span>
           </div>
           <div className="link-box">
-            <a href="http://www.behance.net">Details</a>
+            <a href="https://github.com/akhilsiraswal/Authentication">
+              Details
+            </a>
             <a className="popup-modal-dismiss">Close</a>
           </div>
         </div>
